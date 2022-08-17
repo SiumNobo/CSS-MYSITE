@@ -1,0 +1,99 @@
+body
+{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+}
+h1
+{
+    font-size: 500%;
+    width: 50%;
+    margin: 0 auto 0 auto ;
+    font-family:'Sacramento',cursive ;
+    
+   
+}
+h2{
+    font-family: 'Montserrat',sans-serif;
+}
+h3
+{
+    font-family: 'Montserrat',sans-serif;
+}
+.top-container
+{
+    padding-top: 147px;
+    background-color: #F6E3C5;       /*CDF0EA*/
+    position: relative;
+    
+}
+.middle-container
+{
+    background-color: #F6EEC7;
+    padding: 20px;
+    
+}
+.bottom-container
+{
+    
+    background-color: #F6EEC7;
+}
+.sp
+{
+    text-decoration: underline;
+}
+.red
+{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+}
+.blue
+{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: inline-block;
+    position: relative;
+    right: 100px;
+}
+
+.yellow
+{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    display: inline-block;
+    position: relative;
+    right: 100px;
+}
+.top-cloud
+{
+   position: absolute;
+   right: 300px;
+   top: 50px;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.Bhai
+{
+    
+    width: 18%;
+}
+.Creative
+{
+    height: 8%;
+    width: 10%;
+}
+.Travel
+{
+    height: 14%;
+    width: 18%;
+}
